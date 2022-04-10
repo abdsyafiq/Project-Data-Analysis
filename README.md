@@ -6,6 +6,14 @@ with the theme Data Analyst training, organized by the [Indonesian Ministry of C
 
 # SQL
 
-[Data Analysis for Retail: Sales Performance Report](https://github.com/abdsyfq/project_data_analysis/tree/main/Data%20Analysis%20for%20Retail "The best search engine for privacy")
+[Data Analysis for Retail: Sales Performance Report](https://github.com/abdsyfq/project_data_analysis/tree/main/Data%20Analysis%20for%20Retail)
 
-[Data Analysis for B2B Retail: Customer Analytics Report](https://github.com/abdsyfq/project_data_analysis/tree/main/Data%20Analysis%20for%20B2B%20Retail "The best search engine for privacy")
+[Data Analysis for B2B Retail: Customer Analytics Report](https://github.com/abdsyfq/project_data_analysis/tree/main/Data%20Analysis%20for%20B2B%20Retail)
+
+# Medium
+
+Explanation of the data analysis that has been carried out.
+
+[Data Analysis for Retail: Sales Performance Report](https://abdsyafiq.medium.com/data-analysis-for-retail-sales-performance-report-3757b66b74a6)
+
+[Data Analysis for B2B Retail: Customer Analytics Report](https://abdsyafiq.medium.com/data-analysis-for-b2b-retail-customer-analytics-report-d6b086c4ee97)
